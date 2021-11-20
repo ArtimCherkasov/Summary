@@ -35,4 +35,4 @@ Artyom228Cherkasov228gmail.com
 Участник олимпиады IT-planeta в разработки мобильных приложений:
 
 Участник олимпиады IT-planeta в "1С предприятия":
-![Сертификат об участие]()
+![Олимпиада кап-1С.pdf](https://github.com/ArtimCherkasov/Summary/files/7574454/-1.pdf)
