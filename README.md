@@ -16,6 +16,9 @@ Artyom_Cherkasov228@mail.ru
 # G-mail:
 Artyom228Cherkasov228gmail.com
 # Социальные сети:
-[Мой вконтакте](https://vk.com/id442778171)
+[vk.com](https://vk.com/id442778171)
+[instagram](https://www.instagram.com/winston_xstale228/?hl=ru)
+# Цели на жизнь
+Устроиться на интересную работу с достойной оплатой и перспективой карьерного роста в сфере информационной безопасности, прогрмаммирования или разработки мобильных приложений.
 
 
