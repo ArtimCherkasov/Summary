@@ -15,6 +15,7 @@
 Artyom_Cherkasov228@mail.ru
 # G-mail:
 Artyom228Cherkasov228gmail.com
-# 
+# Социальные сети:
+[Мой вконтакте](https://vk.com/id442778171)
 
 
