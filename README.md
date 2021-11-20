@@ -34,16 +34,16 @@ Artyom228Cherkasov228gmail.com
 Опытный пользователь в ПК. Работаю в программах: С#, SQL Server, Infowotch Traffic Monitor, Excel, Word.<br/>
 Имею водительские права категории В, А.<br/>
 ## Личные достижения: ##
-Участник олимпиады IT-planeta в разработки мобильных приложений:
+**Участник олимпиады IT-planeta в разработки мобильных приложений:**
 ![Олимпиада разаработка мобильных приложений]()
 ***
-Участник олимпиады IT-planeta в "1С предприятия":
+**Участник олимпиады IT-planeta в "1С предприятия":**
 ![Олимпиада кап-1С.pdf](https://github.com/ArtimCherkasov/Summary/files/7574454/-1.pdf)
 ***
-Участник олимпиады в WorldSkills:
+**Участник олимпиады в WorldSkills:**
 ![Регистрация в WorldSkills](https://user-images.githubusercontent.com/94596161/142724759-6a743cd6-7e3a-4e6c-bf77-0e85ced5bb7e.png)
 ***
-Прошёл курсы Академия Microsoft: Безопасность компьютерных систем на основе операционных систем Windows 2003/XP
+**Прошёл курсы Академия Microsoft: Безопасность компьютерных систем на основе операционных систем Windows 2003/XP**
 ![Nekommerch-2-2-PRF-example](https://user-images.githubusercontent.com/94596161/142727536-530e9cb1-65b3-4e37-a162-b853f9b76bbd.jpg)
 ![Nekommerch-2-3-PRF-example](https://user-images.githubusercontent.com/94596161/142727540-a7fe672f-395f-4786-b4ba-716766cfcf2d.jpg)
 ## Личные качества: ##
