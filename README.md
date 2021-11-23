@@ -51,6 +51,7 @@ Artyom228Cherkasov228gmail.com
 ## Хобби: 
 Большая любовь к технике не зависимо к какой от ПК до автомобиля, активный отдых на природе: рыбалка, охота, туризм.
 ## Мои работы:
+[Тетрис.zip](https://github.com/ArtimCherkasov/Summary/files/7586908/default.zip)
 
 
 
