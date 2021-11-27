@@ -9,7 +9,7 @@
 ### E-mail: ###
 Artyom_Cherkasov228@mail.ru
 <br>
-Artyom228Cherkasov228gmail.com
+[Artyom228Cherkasov228gmail.com](Artyom228Cherkasov228gmail.com)
 ### Социальные сети: ###
 [vk.com](https://vk.com/id442778171)<br/>
 [instagram](https://www.instagram.com/winston_xstale228/?hl=ru)
