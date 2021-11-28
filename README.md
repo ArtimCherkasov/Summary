@@ -44,6 +44,9 @@ Artyom_Cherkasov228@mail.ru
 ## Хобби: 
 Активный отдых на природе: рыбалка, охота, туризм.
 ## Мои работы:
+Моя первая программа [Генератор паролей.zip](https://github.com/ArtimCherkasov/Summary/files/7613863/default.zip) не судите строго было мало опыта.<br>
+Чуть серьёзнее и по интереснее проект [Тетрис.zip](https://github.com/ArtimCherkasov/Summary/files/7613864/default.zip)
+
 
 
 
