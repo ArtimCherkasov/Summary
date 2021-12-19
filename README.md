@@ -45,7 +45,7 @@ Artyom_Cherkasov228@mail.ru
 Активный отдых на природе: рыбалка, охота, туризм.
 ## Мои работы:
 [Игра тетрис](https://github.com/ArtimCherkasov/Project-Tetris)<br>
-
+[Генератор паролей](https://github.com/ArtimCherkasov/Password-Generator)
 
 
 
