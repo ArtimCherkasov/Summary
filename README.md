@@ -44,6 +44,7 @@ Artyom_Cherkasov228@mail.ru
 ## Хобби: 
 Активный отдых на природе: рыбалка, охота, туризм.
 ## Мои работы:
+[Игра тетрис](https://github.com/ArtimCherkasov/Project-Tetris)<br>
 
 
 
